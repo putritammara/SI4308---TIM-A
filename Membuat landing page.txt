@@ -1,1 +1,3 @@
 Ini codingan dari landing page.
+
+Landing page sudah selesai.
